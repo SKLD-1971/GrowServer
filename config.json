@@ -13,7 +13,7 @@
       "key": "./assets/ssl/server.key",
       "cert": "./assets/ssl/server.crt"
     },
-    "cdnUrl": "growserver-cache.netlify.app"
+    "cdnUrl": "https://grow-server-ihjr-7tq6127cl-flys-projects-1ffd4c86.vercel.app/"
   },
   "webFrontend": {
     "root": "./.cache/website",
